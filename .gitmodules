@@ -18,3 +18,7 @@
 	path = Robotics-BoosterPack
 	url = git@github.com:cmonr/Robotics-BoosterPack
 	branch = master
+[submodule "Eagle-Libraries"]
+	path = Eagle-Libraries
+	url = git@github.com:cmonr/Eagle-Libraries
+	branch = master
