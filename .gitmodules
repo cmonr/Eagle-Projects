@@ -1,0 +1,20 @@
+[submodule "Fume-Extractor"]
+	path = Fume-Extractor
+	url = git@github.com:cmonr/Fume-Extractor
+	branch = master
+[submodule "Micro-Motor-Encoders"]
+	path = Micro-Motor-Encoders
+	url = git@github.com:cmonr/Micro-Motor-Encoders
+	branch = master
+[submodule "PCB-Ruler"]
+	path = PCB-Ruler
+	url = git@github.com:cmonr/PCB-Ruler
+	branch = master
+[submodule "I2C-Line-Sensor"]
+	path = I2C-Line-Sensor
+	url = git@github.com:cmonr/I2C-Line-Sensor
+	branch = master
+[submodule "Robotics-BoosterPack"]
+	path = Robotics-BoosterPack
+	url = git@github.com:cmonr/Robotics-BoosterPack
+	branch = master
