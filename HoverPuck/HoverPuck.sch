@@ -2631,8 +2631,15 @@ with integrated chip antenna and onboard&lt;br&gt;
 <text x="40.64" y="111.76" size="2.54" layer="97" ratio="15" align="center">Bluetooth Module</text>
 <text x="170.18" y="165.1" size="5.08" layer="97" ratio="15" align="top-left">TODO:
 - Add pins to program BLE112
-- Route everything
-- Label everything</text>
+- Finish Routing
+- Label everything
+- Breakout Programming pins for BLE112
+  - https://github.com/slackhappy/ble112/blob/master/programming.md
+  - http://www.inmojo.com/store/jeff-rowberg/item/ble112-bluetooth-low-energy-breakout/
+  - https://github.com/slackhappy/ble112/tree/master/serial_debug
+- Breakout Programming pins for EFM8BB1
+  - 
+- </text>
 <text x="200.66" y="114.3" size="2.54" layer="97" ratio="15" align="center">MicroBlower Control</text>
 <text x="53.34" y="43.18" size="2.54" layer="97" ratio="15" align="center">Debug</text>
 </plain>
